@@ -13,12 +13,11 @@
 
 - 📫 How to reach me => **anmoldhiman444@gmail.com**
 
-- ⚡ Two lies one truth =>**I love to code,I love to overthink, I am GAY**
+- ⚡ Two lies one truth =>**I love to code,I love to overthink, I am Good at Studies*
 <h3 align="left">Connect with me:dash::</h3>
 <p align="left">
 <a href="https://instagram.com/aanmol_strs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aanmol_strs" height="30" width="40" /></a>
-<a href="https://discord.gg/Stress#8314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Stress#8314" height="30" width="40" /></a>
-</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
