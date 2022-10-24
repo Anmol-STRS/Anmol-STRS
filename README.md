@@ -7,7 +7,7 @@
 
 - :weight_lifting_man: I’m currently learning => **Languages like C, Java, Python and Tools like UNIX**
 
-- 👨‍💻 All of my projects are available at => [the repositories](the repositories)
+- 👨‍💻 All of my projects are available at => the repositories
 
 - 💬 Ask me about => **Anything related to the languages and the tools**
 
