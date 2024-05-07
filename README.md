@@ -25,18 +25,23 @@
 ### Other Tools and Frameworks:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-# 📊 GitHub Stats:
+<!--
+# 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=Anmol-STRS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-STRS&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-STRS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+-->
 
-### ✍️ Random Dev Quote
+<!--
+### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+-->
 
-### 🔝 Top Contributed Repo
+<!--
+### 🔝 Top Contributed Repo 
 ![](https://github-contributor-stats.vercel.app/api?username=Anmol-STRS&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=Anmol-STRS&icon=9&color=6)](https://visitcount.itsvg.in)
-
+    
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
