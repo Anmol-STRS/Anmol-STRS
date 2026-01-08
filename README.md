@@ -3,8 +3,8 @@
 Cybersecurity student and software developer focused on building practical systems: automation pipelines, backend services, and performance-oriented applications.
 
 Portfolio: https://anmold.dev  
-LinkedIn: https://linkedin.com/in/YOUR_LINK  
-Email: your.email@example.com  
+LinkedIn: https://linkedin.com/in/anmoldhimann
+Email: contact@anmold.dev
 
 ---
 
@@ -15,7 +15,7 @@ Below are selected projects that reflect my strongest work. Each repository incl
 ### CLO Automation (Python, Excel Automation, Desktop UI)
 End-to-end automation for CLO reporting: structured ingestion, validation, calculations, and export outputs designed for consistency and speed.  
 Tech: Python, OpenPyXL/XlsxWriter, CustomTkinter  
-Repository: https://github.com/Anmol-STRS/YOUR_REPO
+
 
 Key contributions:
 - Built a structured pipeline from raw files to final exports
@@ -30,12 +30,12 @@ Repository: https://github.com/Anmol-STRS/TerrainBuilderI-0
 ### Network Video Recorder System (C++, OpenCV)
 Real-time stream management with detection features and a UI layer for monitoring.  
 Tech: C++, OpenCV, ImGui, Docker  
-Repository: https://github.com/Anmol-STRS/YOUR_REPO
+
 
 ### Loop Chat (Flutter, Firebase)
 Secure messaging application with authentication, real-time messaging, and media sharing.  
 Tech: Flutter, Firebase, OAuth, SSL/TLS  
-Repository: https://github.com/Anmol-STRS/YOUR_REPO
+
 
 ### AI Trader / ML Trading Arena (Python)
 Modular trading pipeline for ingestion, feature engineering, model training, evaluation, and reporting/dashboard outputs.  
@@ -45,7 +45,7 @@ Repository: https://github.com/Anmol-STRS/AITraderBotMLProject
 ### AnmolOS (Flutter, FastAPI)
 Mobile-first personal dashboard integrating fitness, finance, productivity, and habit tracking with automated summaries.  
 Tech: Flutter, FastAPI, Firebase  
-Repository: https://github.com/Anmol-STRS/YOUR_REPO
+
 
 ---
 
