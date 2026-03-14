@@ -1,79 +1,112 @@
 # Anmol Dhiman
 
-Cybersecurity student and software developer focused on building practical systems: automation pipelines, backend services, and performance-oriented applications.
-
-Portfolio: https://anmold.dev  
-LinkedIn: https://linkedin.com/in/anmoldhimann
-Email: contact@anmold.dev
-
----
-
-## Featured Projects
-
-Below are selected projects that reflect my strongest work. Each repository includes documentation and reproducible steps to run locally.
-
-### CLO Automation (Python, Excel Automation, Desktop UI)
-End-to-end automation for CLO reporting: structured ingestion, validation, calculations, and export outputs designed for consistency and speed.  
-Tech: Python, OpenPyXL/XlsxWriter, CustomTkinter  
 
 
-Key contributions:
-- Built a structured pipeline from raw files to final exports
-- Reduced manual effort and improved repeatability
-- Implemented a clear codebase structure suitable for maintenance
-
-### Terrain Preprocessing Pipeline (C++)
-Performance-focused terrain preprocessing pipeline with optimized I/O and compute patterns for large datasets.  
-Tech: C++, profiling, file processing, caching/compression concepts  
-Repository: https://github.com/Anmol-STRS/TerrainBuilderI-0
-
-### Network Video Recorder System (C++, OpenCV)
-Real-time stream management with detection features and a UI layer for monitoring.  
-Tech: C++, OpenCV, ImGui, Docker  
+![Visitors](https://komarev.com/ghpvc/?username=Anmol-STRS&style=flat-square&color=grey)
 
 
-### Loop Chat (Flutter, Firebase)
-Secure messaging application with authentication, real-time messaging, and media sharing.  
-Tech: Flutter, Firebase, OAuth, SSL/TLS  
 
+Cybersecurity-focused software developer building backend systems,
+automation pipelines, and mobile applications.
 
-### AI Trader / ML Trading Arena (Python)
-Modular trading pipeline for ingestion, feature engineering, model training, evaluation, and reporting/dashboard outputs.  
-Tech: Python, time-series pipelines, ML experiments, API services  
-Repository: https://github.com/Anmol-STRS/AITraderBotMLProject
-
-### AnmolOS (Flutter, FastAPI)
-Mobile-first personal dashboard integrating fitness, finance, productivity, and habit tracking with automated summaries.  
-Tech: Flutter, FastAPI, Firebase  
-
+[anmold.dev](https://anmold.dev) · [LinkedIn](https://linkedin.com/in/anmoldhimann) · contact@anmold.dev
 
 ---
 
-## Technical Skills
+## Currently Building
 
-Languages: Python, C++, TypeScript, Dart  
-Frameworks: FastAPI, Flutter, React  
-Tools: Git, Docker, Linux  
-Data: SQLite/PostgreSQL (project-dependent)
+- 🚚 **MoHaul** — Flutter delivery app with driver onboarding, KYC verification, and Google Maps
+- 🥊 **Elite AFC** — MMA championship platform with Supabase, ticketing, and fighter rosters
+- 👔 **Larry Montego** — Streetwear e-commerce with Shopify + Next.js
 
 ---
 
-## GitHub Stats
+## Projects
+
+<details>
+<summary><b>Personal Projects</b></summary>
+<br>
+
+### [CLO Automation](https://github.com/Anmol-STRS) — Python, OpenPyXL, CustomTkinter
+End-to-end automation for academic CLO reporting — ingestion, validation,
+calculation, and structured Excel exports via a desktop UI.
+Eliminated manual reporting overhead and made the process fully reproducible.
+
+### [AnmolOS](https://github.com/Anmol-STRS) — Flutter, FastAPI, Firebase
+Mobile-first personal OS integrating fitness, finance, productivity, and habit
+tracking with automated daily summaries and a REST backend.
+
+### [AI Trader](https://github.com/Anmol-STRS/AITraderBotMLProject) — Python, FastAPI
+Modular ML trading pipeline covering ingestion, feature engineering, model
+training, backtesting, and a reporting dashboard.
+
+### [Terrain Preprocessing Pipeline](https://github.com/Anmol-STRS/TerrainBuilderI-0) — C++
+High-performance terrain preprocessing with optimized I/O, caching, and
+compression for large geospatial datasets.
+
+### [Network Video Recorder](https://github.com/Anmol-STRS) — C++, OpenCV, ImGui, Docker
+Real-time multi-stream video management system with motion detection and a
+live monitoring UI, containerized with Docker.
+
+### [Loop Chat](https://github.com/Anmol-STRS) — Flutter, Firebase
+End-to-end encrypted messaging app with OAuth authentication, real-time
+messaging, and media sharing.
+
+</details>
+
+<details>
+<summary><b>Client Projects</b></summary>
+<br>
+
+### [Elite AFC](https://eliteafc.ca) — Next.js, Supabase, TypeScript
+MMA championship platform with events, ticketing, fighter rosters, and an
+admin dashboard with REST API integration.
+
+### [Larry Montego](https://github.com/Anmol-STRS) — Next.js, Shopify, Supabase
+Full-stack streetwear e-commerce site with Shopify storefront integration,
+order management, PDF invoicing, and an admin panel.
+
+### MoHaul — Flutter, Google Maps, FastAPI
+On-demand delivery app with Facebook Marketplace integration, driver onboarding,
+KYC document verification, and real-time order tracking.
+
+</details>
+
+<details>
+<summary><b>Education</b></summary>
+<br>
+
+**Information Systems Engineering** — Humber Polytechnic  
+Focus: Cybersecurity
+
+</details>
+
+---
+
+## Skills
+
+**Languages:** Python · C++ · TypeScript · Dart  
+**Frameworks:** FastAPI · Flutter · React · Next.js  
+**Tools:** Git · Docker · Linux  
+**Databases:** PostgreSQL · SQLite  
+
+---
+
+## Stats
+
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anmol-STRS&show_icons=true&hide_title=true&cache_seconds=86400)
+
+
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-STRS&layout=compact&hide_title=true&cache_seconds=86400)
 
 
----
-
-## Interests
-
-Software engineering, cybersecurity, automation, backend systems, applied machine learning.
 
 ---
 
-## Contact
+## Freelance
 
-Portfolio: https://anmold.dev  
-LinkedIn: https://linkedin.com/in/YOUR_LINK  
-Email: your.email@example.com
+Available for web and mobile projects → [anmold.dev](https://anmold.dev)
