@@ -1,85 +1,51 @@
 # Anmol Dhiman
 
+**Software engineer specializing in AI, automation, and secure systems.**
 
+I build backend systems, automation pipelines, and mobile applications with a
+focus on practical engineering and cybersecurity.
 
-![Visitors](https://komarev.com/ghpvc/?username=Anmol-STRS&style=flat-square&color=grey)
-
-
-
-Cybersecurity-focused software developer building backend systems,
-automation pipelines, and mobile applications.
-
-[anmold.dev](https://anmold.dev) · [LinkedIn](https://linkedin.com/in/anmoldhimann) · contact@anmold.dev
+[Portfolio](https://anmold.dev) · [LinkedIn](https://linkedin.com/in/anmoldhimann) · [Email](mailto:contact@anmold.dev)
 
 ---
 
-## Currently Building
+## Selected work
 
-- 🚚 **MoHaul** — Flutter delivery app with driver onboarding, KYC verification, and Google Maps
-- 🥊 **Elite AFC** — MMA championship platform with Supabase, ticketing, and fighter rosters
-- 👔 **Larry Montego** — Streetwear e-commerce with Shopify + Next.js
+### [AITraderBotMLProject](https://github.com/Anmol-STRS/AITraderBotMLProject)
 
----
+**Python · React · TypeScript · XGBoost**
 
-## Projects
+ML stock prediction system combining XGBoost models with LLM trading agents,
+technical indicators, and an interactive dashboard.
 
-<details>
-<summary><b>Personal Projects</b></summary>
-<br>
+### [TerrainBuilderI-0](https://github.com/Anmol-STRS/TerrainBuilderI-0)
 
-### [CLO Automation](https://github.com/Anmol-STRS) — Python, OpenPyXL, CustomTkinter
-End-to-end automation for academic CLO reporting — ingestion, validation,
-calculation, and structured Excel exports via a desktop UI.
-Eliminated manual reporting overhead and made the process fully reproducible.
+**C++**
 
-### [AnmolOS](https://github.com/Anmol-STRS) — Flutter, FastAPI, Firebase
-Mobile-first personal OS integrating fitness, finance, productivity, and habit
-tracking with automated daily summaries and a REST backend.
+Terrain preprocessing pipeline for large-scale DEM processing, with optimized
+I/O, caching, SIMD processing, and compressed GeoTIFF output.
 
-### [AI Trader](https://github.com/Anmol-STRS/AITraderBotMLProject) — Python, FastAPI
-Modular ML trading pipeline covering ingestion, feature engineering, model
-training, backtesting, and a reporting dashboard.
+### [Humber-Workbook-Insights](https://github.com/Anmol-STRS/Humber-Workbook-Insights)
 
-### [Terrain Preprocessing Pipeline](https://github.com/Anmol-STRS/TerrainBuilderI-0) — C++
-High-performance terrain preprocessing with optimized I/O, caching, and
-compression for large geospatial datasets.
+**Python · CustomTkinter · Streamlit · Pandas**
 
-### [Network Video Recorder](https://github.com/Anmol-STRS) — C++, OpenCV, ImGui, Docker
-Real-time multi-stream video management system with motion detection and a
-live monitoring UI, containerized with Docker.
+Academic performance analysis and automation system that parses Excel
+assessment results, calculates CLO and indicator summaries, and exports Excel
+and PDF reports. The repository is a public showcase; the source is private.
 
-### [Loop Chat](https://github.com/Anmol-STRS) — Flutter, Firebase
-End-to-end encrypted messaging app with OAuth authentication, real-time
-messaging, and media sharing.
+### [Arduino-Car-w-Obstacle-Detection](https://github.com/Anmol-STRS/Arduino-Car-w-Obstacle-Detection)
 
-</details>
+**Arduino C/C++**
 
-<details>
-<summary><b>Client Projects</b></summary>
-<br>
+Arduino UNO robotic car with line following, ultrasonic obstacle avoidance, and
+Bluetooth control.
 
-### [Elite AFC](https://eliteafc.ca) — Next.js, Supabase, TypeScript
-MMA championship platform with events, ticketing, fighter rosters, and an
-admin dashboard with REST API integration.
+### [MazeGame](https://github.com/Anmol-STRS/MazeGame)
 
-### [Larry Montego](https://github.com/Anmol-STRS) — Next.js, Shopify, Supabase
-Full-stack streetwear e-commerce site with Shopify storefront integration,
-order management, PDF invoicing, and an admin panel.
+**C**
 
-### MoHaul — Flutter, Google Maps, FastAPI
-On-demand delivery app with Facebook Marketplace integration, driver onboarding,
-KYC document verification, and real-time order tracking.
-
-</details>
-
-<details>
-<summary><b>Education</b></summary>
-<br>
-
-**Information Systems Engineering** — Humber Polytechnic  
-Focus: Cybersecurity
-
-</details>
+Console maze game that loads a map from a text file and supports keyboard
+navigation to the exit.
 
 ---
 
@@ -88,25 +54,14 @@ Focus: Cybersecurity
 **Languages:** Python · C++ · TypeScript · Dart  
 **Frameworks:** FastAPI · Flutter · React · Next.js  
 **Tools:** Git · Docker · Linux  
-**Databases:** PostgreSQL · SQLite  
+**Databases:** PostgreSQL · SQLite
 
----
+## Education
 
-## Stats
+**Information Systems Engineering** — Humber Polytechnic
 
+Focus: Cybersecurity
 
+## Availability
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anmol-STRS&show_icons=true&hide_title=true&cache_seconds=86400)
-
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-STRS&layout=compact&hide_title=true&cache_seconds=86400)
-
-
-
----
-
-## Freelance
-
-Available for web and mobile projects → [anmold.dev](https://anmold.dev)
+Available for web and mobile projects. [Get in touch](mailto:contact@anmold.dev).
