@@ -1,20 +1,34 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contour-hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/contour-hero-light.svg">
-  <img src="./assets/contour-hero-light.svg" alt="A topographic contour map crossed by a route connecting data, terrain, automation, and secure systems." width="1200">
-</picture>
+<p align="center">
+  <img src="./assets/unsplash-network-hero.jpg" alt="Blue abstract network of lines and nodes, representing connected systems and data flows." width="1600">
+</p>
+
+<p align="center">
+  Photo by <a href="https://unsplash.com/@choys_">Conny Schneider</a> on <a href="https://unsplash.com/photos/a-blue-abstract-background-with-lines-and-dots-pREq0ns_p_E">Unsplash</a>
+</p>
 
 # Anmol Dhiman
 
 Software engineer focused on **AI, automation, and secure systems**.
 
+I love the work between an idea and a dependable system: building a prototype, finding the edge case, automating the boring part, and shipping the next better version. I learn by making things real.
+
 I study Information Systems Engineering at Humber Polytechnic, with a focus on cybersecurity. My work moves between applied machine learning, data pipelines, performance-oriented systems, and practical automation.
 
-<a href="https://anmold.dev">Portfolio</a> · <a href="https://linkedin.com/in/anmoldhimann">LinkedIn</a> · <a href="mailto:contact@anmold.dev">Email</a>
+<p>
+  <a href="https://anmold.dev">Portfolio</a> ·
+  <a href="https://linkedin.com/in/anmoldhimann">LinkedIn</a> ·
+  <a href="mailto:contact@anmold.dev">Email</a>
+</p>
+
+## Technical leadership
+
+> **Technical Lead · GACI Online**<br>
+> *Private Humber internal platform*<br>
+> Technical Lead for an internal admin platform focused on CLO mapping, workbook imports, and graduate-attribute analytics.
 
 ## Selected work
 
-Five projects that show the range of that work: from model pipelines and geospatial processing to auditable reporting, embedded control, and developer tooling.
+Five projects that show how I build across model pipelines, geospatial processing, reporting automation, embedded control, and developer tooling.
 
 ### [AI Trading Arena](https://github.com/Anmol-STRS/AITraderBotMLProject)
 
@@ -47,6 +61,16 @@ Arduino UNO robotics project combining IR line-following, ultrasonic obstacle av
 Python script that turns answers about a project into structured Markdown README files, with selectable sections such as installation, usage, contributing, and license.
 
 `Python` · `Markdown`
+
+## Contribution snapshot
+
+<p align="center">
+  <img src="./assets/contribution-heatmap.svg" alt="Static 53-week GitHub contribution heatmap showing 1,318 contributions from August 11, 2025 through August 11, 2026." width="1120">
+</p>
+
+**1,318 contributions · August 11, 2025 – August 11, 2026 · 53 weeks**
+
+Dated GraphQL snapshot of contribution activity. This includes public and private work; private repository details remain private.
 
 ## Focus
 
