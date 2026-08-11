@@ -1,6 +1,6 @@
 <svg viewBox="0 0 1120 174" width="1120" height="174" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">GitHub contribution activity from August 11, 2025 to August 11, 2026</title>
-  <desc id="desc">A 53-week by 7-day heatmap representing 1,318 GitHub contributions. Dark cells represent zero contributions; brighter electric-blue cells represent higher daily contribution counts.</desc>
+  <desc id="desc">A 53-week by 7-day heatmap representing more than 1,300 GitHub contributions. Dark cells represent zero contributions; brighter electric-blue cells represent higher daily contribution counts.</desc>
   <rect x="52" y="2" width="791" height="16" rx="4" fill="#081426"/>
   <text x="52" y="13" fill="#F4F8FC" font-family="ui-sans-serif, system-ui, sans-serif" font-size="9" font-weight="600" letter-spacing="0.3">AUG 2025</text>
   <text x="97" y="13" fill="#F4F8FC" font-family="ui-sans-serif, system-ui, sans-serif" font-size="9" font-weight="600" letter-spacing="0.3">SEP 2025</text>

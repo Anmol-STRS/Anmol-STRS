@@ -65,10 +65,10 @@ Python script that turns answers about a project into structured Markdown README
 ## Contribution snapshot
 
 <p align="center">
-  <img src="./assets/contribution-heatmap.svg" alt="Static 53-week GitHub contribution heatmap showing 1,318 contributions from August 11, 2025 through August 11, 2026." width="1120">
+  <img src="./assets/contribution-heatmap.svg" alt="Static 53-week GitHub contribution heatmap showing more than 1,300 contributions from August 11, 2025 through August 11, 2026." width="1120">
 </p>
 
-**1,318 contributions · August 11, 2025 – August 11, 2026 · 53 weeks**
+**1,300+ contributions · August 11, 2025 – August 11, 2026 · 53 weeks**
 
 Dated GraphQL snapshot of contribution activity. This includes public and private work; private repository details remain private.
 
