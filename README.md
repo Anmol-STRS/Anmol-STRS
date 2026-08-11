@@ -1,11 +1,6 @@
 <p align="center">
   <img src="./assets/unsplash-network-hero.jpg" alt="Blue abstract network of lines and nodes, representing connected systems and data flows." width="1600">
 </p>
-
-<p align="center">
-  Photo by <a href="https://unsplash.com/@choys_">Conny Schneider</a> on <a href="https://unsplash.com/photos/a-blue-abstract-background-with-lines-and-dots-pREq0ns_p_E">Unsplash</a>
-</p>
-
 # Anmol Dhiman
 
 Software engineer focused on **AI, automation, and secure systems**.
