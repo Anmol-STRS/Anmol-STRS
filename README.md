@@ -1,67 +1,64 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contour-hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contour-hero-light.svg">
+  <img src="./assets/contour-hero-light.svg" alt="A topographic contour map crossed by a route connecting data, terrain, automation, and secure systems." width="1200">
+</picture>
+
 # Anmol Dhiman
 
-**Software engineer specializing in AI, automation, and secure systems.**
+Software engineer focused on **AI, automation, and secure systems**.
 
-I build backend systems, automation pipelines, and mobile applications with a
-focus on practical engineering and cybersecurity.
+I study Information Systems Engineering at Humber Polytechnic, with a focus on cybersecurity. My work moves between applied machine learning, data pipelines, performance-oriented systems, and practical automation.
 
-[Portfolio](https://anmold.dev) · [LinkedIn](https://linkedin.com/in/anmoldhimann) · [Email](mailto:contact@anmold.dev)
-
----
+<a href="https://anmold.dev">Portfolio</a> · <a href="https://linkedin.com/in/anmoldhimann">LinkedIn</a> · <a href="mailto:contact@anmold.dev">Email</a>
 
 ## Selected work
 
-### [AITraderBotMLProject](https://github.com/Anmol-STRS/AITraderBotMLProject)
+Five projects that show the range of that work: from model pipelines and geospatial processing to auditable reporting, embedded control, and developer tooling.
 
-**Python · React · TypeScript · XGBoost**
+### [AI Trading Arena](https://github.com/Anmol-STRS/AITraderBotMLProject)
 
-ML stock prediction system combining XGBoost models with LLM trading agents,
-technical indicators, and an interactive dashboard.
+Full-stack educational and research project for stock-price prediction and agent-assisted market analysis on TSX-listed companies. It combines XGBoost models built from 40+ technical indicators with a Flask API and React/TypeScript dashboard.
 
-### [TerrainBuilderI-0](https://github.com/Anmol-STRS/TerrainBuilderI-0)
+`Python` · `XGBoost` · `Flask` · `React` · `TypeScript`
 
-**C++**
+### [Terrain Builder](https://github.com/Anmol-STRS/TerrainBuilderI-0)
 
-Terrain preprocessing pipeline for large-scale DEM processing, with optimized
-I/O, caching, SIMD processing, and compressed GeoTIFF output.
+Documentation-only public release for a high-performance C++ preprocessing pipeline for large Digital Elevation Model (DEM) datasets. The repository covers spatial indexing, chunk planning, cached I/O, SIMD kernels, and GeoTIFF output.
 
-### [Humber-Workbook-Insights](https://github.com/Anmol-STRS/Humber-Workbook-Insights)
+`C++` · `GDAL` · `PROJ` · `AVX2` · `CMake`
 
-**Python · CustomTkinter · Streamlit · Pandas**
+### [Humber Workbook Insights](https://github.com/Anmol-STRS/Humber-Workbook-Insights)
 
-Academic performance analysis and automation system that parses Excel
-assessment results, calculates CLO and indicator summaries, and exports Excel
-and PDF reports. The repository is a public showcase; the source is private.
+Portfolio showcase for a private Python system that parses Excel assessment results, automates CLO → Indicator binning, exports Excel and PDF reports, and provides Tkinter and Streamlit interfaces with step-by-step logging.
 
-### [Arduino-Car-w-Obstacle-Detection](https://github.com/Anmol-STRS/Arduino-Car-w-Obstacle-Detection)
+`Python` · `Pandas` · `OpenPyXL` · `Streamlit` · `SQLite`
 
-**Arduino C/C++**
+### [Arduino Car](https://github.com/Anmol-STRS/Arduino-Car-w-Obstacle-Detection)
 
-Arduino UNO robotic car with line following, ultrasonic obstacle avoidance, and
-Bluetooth control.
+Arduino UNO robotics project combining IR line-following, ultrasonic obstacle avoidance, and Bluetooth remote control in one compact platform.
 
-### [MazeGame](https://github.com/Anmol-STRS/MazeGame)
+`Arduino C/C++` · `Arduino UNO R3` · `HC-SR04` · `HC-05`
 
-**C**
+[Watch the live demo →](https://youtu.be/_BBaOZrlC_I)
 
-Console maze game that loads a map from a text file and supports keyboard
-navigation to the exit.
+### [Project README Generator](https://github.com/Anmol-STRS/projectreadmegenerator)
 
----
+Python script that turns answers about a project into structured Markdown README files, with selectable sections such as installation, usage, contributing, and license.
 
-## Skills
+`Python` · `Markdown`
 
-**Languages:** Python · C++ · TypeScript · Dart  
-**Frameworks:** FastAPI · Flutter · React · Next.js  
-**Tools:** Git · Docker · Linux  
-**Databases:** PostgreSQL · SQLite
+## Focus
 
-## Education
+- Applied machine learning and model-backed analysis
+- Data processing pipelines and repeatable automation
+- Performance-oriented C++ and geospatial systems
+- Cybersecurity-focused engineering and secure systems
 
-**Information Systems Engineering** — Humber Polytechnic
+## Connect
 
-Focus: Cybersecurity
+If you are hiring, collaborating, or want to talk through a project:
 
-## Availability
-
-Available for web and mobile projects. [Get in touch](mailto:contact@anmold.dev).
+- [anmold.dev](https://anmold.dev)
+- [linkedin.com/in/anmoldhimann](https://linkedin.com/in/anmoldhimann)
+- [contact@anmold.dev](mailto:contact@anmold.dev)
