@@ -6,12 +6,16 @@
 
 Software engineer focused on **AI, automation, and secure systems**.
 
+![Open to full-time](https://img.shields.io/badge/Open%20to-Full--time%20%2F%20New--grad-00e5ff?style=flat-square&labelColor=1a0b2e)
+![Location](https://img.shields.io/badge/Based%20in-Toronto%2C%20ON-ff2bd6?style=flat-square&labelColor=1a0b2e)
+![Contributions](https://img.shields.io/badge/Contributions-1%2C300%2B%20in%20a%20year-7c3aed?style=flat-square&labelColor=1a0b2e)
+
 I like taking an idea past the prototype: tracing the failure, automating the repeatable work, and shipping the next version. Coding is how I learn—by turning rough experiments into systems that are clearer to run and easier to trust.
 
 I study Information Systems Engineering at Humber Polytechnic, with a focus on cybersecurity. My work moves between applied machine learning, data pipelines, performance-oriented systems, and practical automation.
 
 <p>
-  <a href="https://anmold.dev">Portfolio</a> ·
+  <a href="https://anmold.dev"><b>Portfolio</b></a> ·
   <a href="https://linkedin.com/in/anmoldhimann">LinkedIn</a> ·
   <a href="mailto:contact@anmold.dev">Email</a>
 </p>
@@ -21,6 +25,18 @@ I study Information Systems Engineering at Humber Polytechnic, with a focus on c
 > **Technical Lead · GACI Online**<br>
 > *Private Humber internal platform*<br>
 > An internal admin platform focused on CLO mapping, workbook imports, and graduate-attribute analytics.
+
+## Skills
+
+| | |
+|---|---|
+| **Languages** | Python · C++ · TypeScript · Arduino C/C++ |
+| **AI / Data** | XGBoost · Pandas · feature engineering (40+ technical indicators) · data pipelines |
+| **Backend & Web** | Flask · React · Streamlit · SQLite |
+| **Systems & Geo** | GDAL · PROJ · AVX2 SIMD · CMake · cached I/O |
+| **Automation** | Excel/PDF report generation · OpenPyXL · Tkinter tooling |
+| **Security** | Studying cybersecurity at Humber Polytechnic |
+| **Embedded** | Arduino UNO · ultrasonic / IR sensors · Bluetooth (HC-05) |
 
 ## Selected work
 
