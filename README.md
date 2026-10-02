@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="./assets/cyberpunk-city-hero.jpg" alt="Futuristic neon-lit city at night with deep violet shadows, cyan light, and magenta highlights." width="1600">
-</p>
-
-<h1 align="center">Anmol Dhiman</h1>
-
-<p align="center">
-  <b>Software engineer building AI, automation, and secure systems that hold up past the prototype.</b>
+  <img src="./assets/header.svg" alt="Anmol Dhiman — Software engineer: AI, automation, secure systems" width="100%">
 </p>
 
 <p align="center">
@@ -20,28 +14,29 @@
   <a href="mailto:contact@anmold.dev">Email</a>
 </p>
 
----
+## ⚡ Impact at a glance
 
-## Impact at a glance
+<p align="center">
+  <img src="./assets/stats.svg" alt="5x faster DEM processing; 60 GB processed in 3 hours instead of 15; 70 percent of faculty reporting automated; 1,300+ contributions in 12 months" width="100%">
+</p>
 
-| **5×** | **60 GB → 3 h** | **70%+** | **1,300+** |
-|:---:|:---:|:---:|:---:|
-| faster DEM processing than the HEC-RAS baseline | terrain data processed, down from 15 h | of manual faculty reporting automated | contributions in the last 12 months |
-| *Terrain Builder* | *Terrain Builder* | *Humber Workbook Insights* | *public + private work* |
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
 
-## About
+## 👋 About
 
 I take an idea past the prototype: trace the failure, automate the repeatable work, and ship the next version. I like problems where performance, correctness, and trust all matter at once, whether that is a C++ pipeline chewing through tens of gigabytes of elevation data or a reporting system that faculty rely on for accreditation.
 
 I study Information Systems Engineering at Humber Polytechnic with a focus on cybersecurity, and my work spans applied machine learning, data pipelines, performance-oriented systems, and practical automation.
 
-## Leadership
+## 🧭 Leadership
 
 > **Technical Lead · GACI Online** — *Private Humber internal platform*
 >
 > Leading an internal admin platform for CLO mapping, workbook imports, and graduate-attribute analytics.
 
-## Featured projects
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
+
+## 🚀 Featured projects
 
 ### Terrain Builder — high-performance geospatial pipeline
 [**Repository →**](https://github.com/Anmol-STRS/TerrainBuilderI-0) *(documentation-only public release)*
@@ -107,19 +102,38 @@ A Python script that turns answers about a project into structured Markdown READ
 
 `Python` · `Markdown`
 
-## Skills
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
 
-| | |
-|---|---|
-| **Languages** | Python · C++ · TypeScript · Arduino C/C++ |
-| **AI & data** | XGBoost · Pandas · feature engineering · LLM agents · data pipelines |
-| **Backend & web** | Flask · REST · WebSockets · React · Streamlit · SQLite |
-| **Systems & geospatial** | GDAL · PROJ · AVX2 SIMD · memory-mapped I/O · CMake |
-| **Automation** | OpenPyXL · Excel/PDF report generation · Tkinter tooling |
-| **Embedded** | Arduino UNO · IR and ultrasonic sensors · Bluetooth |
-| **Security** | Cybersecurity focus at Humber Polytechnic |
+## 🛠 Skills
 
-## Contribution snapshot
+<p align="center">
+  <b>Languages</b><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a0b2e" alt="Python">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a0b2e" alt="C++">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a0b2e" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white&labelColor=1a0b2e" alt="Arduino"><br><br>
+  <b>AI & data</b><br>
+  <img src="https://img.shields.io/badge/XGBoost-EB5A00?style=for-the-badge&logo=xgboost&logoColor=white&labelColor=1a0b2e" alt="XGBoost">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a0b2e" alt="Pandas">
+  <img src="https://img.shields.io/badge/LLM_Agents-7c3aed?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=1a0b2e" alt="LLM Agents">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1a0b2e" alt="SQLite"><br><br>
+  <b>Backend & web</b><br>
+  <img src="https://img.shields.io/badge/Flask-444444?style=for-the-badge&logo=flask&logoColor=white&labelColor=1a0b2e" alt="Flask">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a0b2e" alt="React">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=1a0b2e" alt="Streamlit">
+  <img src="https://img.shields.io/badge/WebSockets-333333?style=for-the-badge&logo=socketdotio&logoColor=white&labelColor=1a0b2e" alt="WebSockets"><br><br>
+  <b>Systems & tooling</b><br>
+  <img src="https://img.shields.io/badge/GDAL-589632?style=for-the-badge&logo=osgeo&logoColor=white&labelColor=1a0b2e" alt="GDAL">
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white&labelColor=1a0b2e" alt="CMake">
+  <img src="https://img.shields.io/badge/AVX2_SIMD-0071C5?style=for-the-badge&logo=intel&logoColor=white&labelColor=1a0b2e" alt="AVX2 SIMD">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a0b2e" alt="Git"><br><br>
+</p>
+
+<p align="center"><sub>Also: Excel/PDF report automation · feature engineering · memory-mapped I/O · cybersecurity focus at Humber Polytechnic</sub></p>
+
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
+
+## 📈 Contribution snapshot
 
 <p align="center">
   <img src="./assets/contribution-heatmap.svg" alt="Static 53-week GitHub contribution heatmap showing 1,300+ contributions from August 11, 2025 through August 11, 2026." width="1120">
@@ -129,7 +143,9 @@ A Python script that turns answers about a project into structured Markdown READ
 
 Dated GraphQL snapshot of contribution activity. This includes public and private work; private repository details remain private.
 
-## Let's talk
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
+
+## 📬 Let's talk
 
 I'm looking for full-time and new-grad software roles. If you're hiring, collaborating, or want to talk through a project:
 
