@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/cyberpunk-city-hero.jpg" alt="Futuristic neon-lit city at night with deep violet shadows, cyan light, and magenta highlights." width="1600">
+</p>
+
 # Anmol Dhiman
 
 I build software, automate repetitive work, and figure out why things break.
