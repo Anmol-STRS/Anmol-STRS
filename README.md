@@ -8,7 +8,11 @@ I build software, automate repetitive work, and figure out why things break.
 
 Software engineer focused on AI, automation, and secure systems. Technical Lead on GACI Online at Humber.
 
-`Python` · `C++` · `TypeScript` · `React` · `Flask` · `SQLite`
+`Python` · `TypeScript` · `React` · `Next.js` · `FastAPI` · `PostgreSQL`
+
+Currently building **PowerDemo**, a desktop editor for product demo videos. *In development.*
+
+Open to full-time software engineering and automation roles.
 
 ### A few things I’ve built
 
