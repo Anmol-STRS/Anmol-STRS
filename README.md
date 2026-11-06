@@ -20,7 +20,6 @@ Currently working on **GACI Online at Humber Polytechnic** and building products
 |---|---|---|
 | **GACI Online** | Technical leadership and development for an engineering assessment platform, including reporting, validation, and workflow automation. | **400+ users** · Production system · Institutional source private |
 | **[Terrain Builder](https://github.com/Anmol-STRS/TerrainBuilderI-0)** | High-performance C++ geospatial pipeline using SIMD, spatial indexing, intelligent caching, and GDAL. | **5× faster** in documented benchmark · 60 GB processed in 3 hours versus 15 hours · Public architecture documentation |
-| **Job Autopilot** | Asynchronous job-workflow automation using FastAPI, PostgreSQL, Redis, WebSockets, and Playwright. | **212 passing tests** · Private project |
 | **PowerDemo** | Developing an editable product-video platform with a custom motion engine, scene-based animation, and rendering workflows. | Active development · Private project |
 | **[AI Trading Arena](https://github.com/Anmol-STRS/AITraderBotMLProject)** | Educational stock-market prediction and analysis experiments with XGBoost, Flask, React, and TypeScript. | Public repository |
 
