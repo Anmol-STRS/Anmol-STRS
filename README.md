@@ -1,23 +1,52 @@
 <p align="center">
-  <img src="./assets/cyberpunk-city-hero.jpg" alt="Futuristic neon-lit city at night with deep violet shadows, cyan light, and magenta highlights." width="1600">
+  <img src="./assets/cyberpunk-city-hero.jpg" alt="Neon city skyline" width="100%">
 </p>
 
 # Anmol Dhiman
 
-I build software, automate repetitive work, and figure out why things break.
+**Software Engineer | Full-Stack Development · Automation · AI Systems**
 
-Software engineer focused on AI, automation, and secure systems. Technical Lead on GACI Online at Humber.
+Toronto, Canada 🇨🇦
 
-`Python` · `TypeScript` · `React` · `Next.js` · `FastAPI` · `PostgreSQL`
+I build software that turns complex problems into practical, reliable systems.
 
-Currently building **PowerDemo**, a desktop editor for product demo videos. *In development.*
+My work spans production web applications, backend automation, data engineering, and performance-focused software. I enjoy taking projects from an initial problem to something people can actually use.
 
-Open to full-time software engineering and automation roles.
+Currently working on **GACI Online at Humber Polytechnic** and building products independently.
 
-### A few things I’ve built
+### Selected Engineering Work
 
-- **[AI Trading Arena](https://github.com/Anmol-STRS/AITraderBotMLProject)** · Stock-prediction experiments with XGBoost, Flask, and React.
-- **[Terrain Builder](https://github.com/Anmol-STRS/TerrainBuilderI-0)** · A C++ geospatial pipeline. Public documentation release.
-- **[Humber Workbook Insights](https://github.com/Anmol-STRS/Humber-Workbook-Insights)** · Assessment analytics and automated Excel/PDF reports. Showcase of a private system.
+| Project | What I built | Results & Evidence |
+|---|---|---|
+| **GACI Online** | Technical leadership and development for an engineering assessment platform, including reporting, validation, and workflow automation. | **400+ users** · Production system · Institutional source private |
+| **[Terrain Builder](https://github.com/Anmol-STRS/TerrainBuilderI-0)** | High-performance C++ geospatial pipeline using SIMD, spatial indexing, intelligent caching, and GDAL. | **5× faster** in documented benchmark · 60 GB processed in 3 hours versus 15 hours · Public architecture documentation |
+| **Job Autopilot** | Asynchronous job-workflow automation using FastAPI, PostgreSQL, Redis, WebSockets, and Playwright. | **212 passing tests** · Private project |
+| **PowerDemo** | Developing an editable product-video platform with a custom motion engine, scene-based animation, and rendering workflows. | Active development · Private project |
+| **[AI Trading Arena](https://github.com/Anmol-STRS/AITraderBotMLProject)** | Educational stock-market prediction and analysis experiments with XGBoost, Flask, React, and TypeScript. | Public repository |
 
-[Portfolio](https://anmold.dev) · [LinkedIn](https://linkedin.com/in/anmoldhimann) · [Email](mailto:contact@anmold.dev)
+### Open Source
+
+I also contribute to projects I use and find interesting.
+
+- **[YumaPlayer](https://github.com/Anmol-STRS/YumaPlayer)** — Worked on Android playback-state behavior, including crossfade and repeat handling.
+- **[LowTokensConfig](https://github.com/Anmol-STRS/LowTokensConfig)** — Shared configuration and agent workflows for AI-assisted development.
+
+### Technologies I Work With
+
+**Languages:** Python · TypeScript · JavaScript · C++ · Rust · SQL
+
+**Frontend:** React · Next.js · Tailwind CSS
+
+**Backend & Data:** FastAPI · Node.js · PostgreSQL · Redis
+
+**Infrastructure & Automation:** Docker · Linux · GitHub Actions · Playwright
+
+### Beyond the Code
+
+I'm also building **[BuiltWithAD](https://builtwithad.com)**, my independent web-development business, and experimenting with creative software through PowerDemo.
+
+I care about maintainable architecture, thoughtful interfaces, measurable outcomes, and software that solves genuine problems.
+
+**Open to full-time software engineering, backend, and automation opportunities.**
+
+[Portfolio](https://anmold.dev) · [LinkedIn](https://linkedin.com/in/anmoldhimann) · [BuiltWithAD](https://builtwithad.com) · [Email](mailto:contact@anmold.dev)
